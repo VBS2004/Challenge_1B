@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28 09:52:55.915921"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Tips and Tricks for Packing",
+            "importance_rank": 1,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Planning, and Exploring",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Planning, and Exploring",
+            "importance_rank": 3,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "City Exploration",
+            "importance_rank": 4,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Hotels",
+            "importance_rank": 5,
+            "page_number": 8
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "• Check the Weather: Check the forecast before packing to ensure appropriate clothing.\n• Make a Packing List: Create a list to ensure nothing is forgotten. Cross off items as you\npack.\n• Use Packing Cubes: Organize clothes and maximize space.\n• Roll Your Clothes: Save space and reduce wrinkles.\n• Pack Dual-Purpose Items: Choose items that serve multiple purposes.\n• Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase\nspace.\n• Pack a Day Bag: Bring a small day bag for daily excursions.\n• Leave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Planning, and Exploring",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "Planning, and Exploring",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "• Day Bag: A small, secure day bag for carrying essentials like water, snacks, and a\ncamera.\n• Comfortable Shoes: Wear comfortable walking shoes for exploring cities.\n• Guidebook: A guidebook or map to help navigate and find points of interest.\n• Additional Tips: Use a money belt or hidden pouch to keep valuables safe. Consider\nusing public transportation to explore cities efficiently.",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Hotels",
+            "page_number": 8
+        }
+    ]
+}
